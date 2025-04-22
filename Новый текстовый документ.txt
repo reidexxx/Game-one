@@ -1,1 +1,2 @@
-что то дргоуе
+print("Hello World")
+print("Hello World")
